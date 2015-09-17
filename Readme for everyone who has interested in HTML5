@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HTML5 Web</title>
+<body>
+<div id="header">
+
+</div>
+<div id="container">
+
+</div>
+<div id="footer">
+  <script type="text/javascript" src="x.js"></script>
+  <script type="text/javascript" src="y.js"></script>
+</div>
+</body>
+</html>
